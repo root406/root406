@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm root406</h1>
-<h3 align="center">A hobby developer from Germany 🌱 | Always learning & building</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=hobby+developer+from+Germany+%F0%9F%87%A9%F0%9F%87%AA;always+learning%2C+never+stopping+%F0%9F%9A%80;building+stuff+that+might+actually+work+%F0%9F%94%A5;somewhere+between+a+bug+and+a+feature+%F0%9F%A4%B7" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=root406&label=Profile%20views&color=0e75b6&style=flat" alt="root406" />
@@ -8,6 +13,7 @@
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,13 +27,10 @@
 ---
 
 ### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=root406&theme=darkhub" alt="root406" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=root406&show_icons=true&theme=radical&count_private=true" alt="root406 stats" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=root406&show_icons=true&theme=dark&locale=en&layout=compact" alt="root406" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=root406&theme=dark" alt="root406" /></p>
 
 ---
 
@@ -41,4 +44,4 @@
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
